@@ -24,9 +24,9 @@ A modern **real-time chat application** built with **React** (frontend) and **No
 |--------------|----------------|--------------|
 | ![Login](screenshots/Screenshot%202025-08-10%20115417.png) | ![Chat](screenshots/Screenshot%202025-08-10%20115532.png) | ![Profile](screenshots/Screenshot%202025-08-10%20115623.png) |
 
-| Mobile View | Dark Mode |
+| Home screen | Dark Mode |
 |-------------|-----------|
-| ![Mobile](screenshots/Screenshot%202025-08-10%20115655.png) | *Coming Soon* |
+| ![Mobile](screenshots/Screenshot%202025-08-10%20115655.png) |
 
 ---
 
@@ -52,3 +52,19 @@ A modern **real-time chat application** built with **React** (frontend) and **No
    ```bash
    git clone https://github.com/N-i-k-h/CHAT-APP.git
    cd CHAT-APP
+1.server side 
+cd server
+npm install
+2.client side
+cd ../client
+npm install
+
+
+Run app
+1.client side
+cd ../client
+npm run dev
+
+2.server side 
+cd server
+npm start
